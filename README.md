@@ -1,4 +1,4 @@
-# Dataset that contains 1000 annotated Stack Overflow posts
+# Dataset
 
 This repository contains the annotated dataset derived for the research paper:
 
