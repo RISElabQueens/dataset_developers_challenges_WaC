@@ -1,0 +1,1001 @@
+POST,challenge,high-level categories,root cause,,,,,,,,,,,,,,,,Task Definition and Configuration,
+https://stackoverflow.com/questions/78296424,Component Setup and Execution,Environment Setup and Deployment,Unclear,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76988089,Component Setup and Execution,Environment Setup and Deployment,Unclear,,,,,,,,,,,,,,,,,
+https://stackoverflow.com/questions/77863727,Data Sharing between Tasks,Workflow Definition,Unclear,,,,,,,,,,,,,,,,,Complex workflows
+https://stackoverflow.com/questions/77971519,Logging and Monitoring, Quality Assurance and Maintenance,Unclear,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77199962,Logging and Monitoring, Quality Assurance and Maintenance,Unclear,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+https://stackoverflow.com/questions/76310596,Logging and Monitoring, Quality Assurance and Maintenance,Unclear,,,,,,,,,,,,,,,,Modules Management,Complex workflows
+https://stackoverflow.com/questions/76691116,Security,Security,Unclear,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/78159689,Task Dependency,Workflow Execution,Unclear,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77327293,Workflow Design,Workflow Definition,Unclear,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77233311,Airflow Version Update, Quality Assurance and Maintenance,Unclear,,,,,,,,,,,,,,,,,Unclear
+https://stackoverflow.com/questions/77939559,Component Setup and Execution,Environment Setup and Deployment,Missing or Incorrect Dependency,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/77051164,Installation,Environment Setup and Deployment,Missing or Incorrect Dependency,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76875507,Integration with External Systems,Workflow Definition,Missing or Incorrect Dependency,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+https://stackoverflow.com/questions/78230703,Modules Management,Environment Setup and Deployment,Missing or Incorrect Dependency,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76854449,Scheduling and Triggers,Workflow Execution,Missing or Incorrect Dependency,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/78380522,Task Definition and Configuration,Workflow Definition,Missing or Incorrect Dependency,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77876002,Data Sharing between Tasks,Workflow Definition,Limitations in Airflow,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/76901529,Logging and Monitoring, Quality Assurance and Maintenance,Limitations in Airflow,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/77217305,Logging and Monitoring, Quality Assurance and Maintenance,Limitations in Airflow,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/77303388,Logging and Monitoring, Quality Assurance and Maintenance,Limitations in Airflow,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+https://stackoverflow.com/questions/77543772,Logging and Monitoring, Quality Assurance and Maintenance,Limitations in Airflow,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77565651,Logging and Monitoring, Quality Assurance and Maintenance,Limitations in Airflow,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/77717398,Logging and Monitoring, Quality Assurance and Maintenance,Limitations in Airflow,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+https://stackoverflow.com/questions/76928289,Scheduling and Triggers,Workflow Execution,Limitations in Airflow,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76231444,Task Definition and Configuration,Workflow Definition,Limitations in Airflow,,,,,,,,,,,,,,,,Integration with External Systems,Limitations in airflow
+https://stackoverflow.com/questions/77601952,Deployment,Environment Setup and Deployment,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Complex workflows
+https://stackoverflow.com/questions/76615600,Installation,Environment Setup and Deployment,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/76989720,Installation,Environment Setup and Deployment,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Complex workflows
+https://stackoverflow.com/questions/77000383,Installation,Environment Setup and Deployment,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/78192772,Installation,Environment Setup and Deployment,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77002117,Installation,Environment Setup and Deployment,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+https://stackoverflow.com/questions/78231211,Logging and Monitoring, Quality Assurance and Maintenance,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+https://stackoverflow.com/questions/77933376,Scheduling and Triggers,Workflow Execution,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77196104,Task Definition and Configuration,Workflow Definition,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/78079339,Task Dependency,Workflow Execution,Lack of Knowledge in Programming and Devops,,,,,,,,,,,,,,,,,Complex workflows
+https://stackoverflow.com/questions/77401000,Component Setup and Execution,Environment Setup and Deployment,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76744335,Deployment,Environment Setup and Deployment,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,Workflow Execution,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76804966,Logging and Monitoring, Quality Assurance and Maintenance,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,Quality Assurance and Maintenance,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/77198629,Scheduling and Triggers,Workflow Execution,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+https://stackoverflow.com/questions/77126344,Security,Security,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76275160,Task Definition and Configuration,Workflow Definition,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,Component Setup and Execution,
+https://stackoverflow.com/questions/76355103,Task Definition and Configuration,Workflow Definition,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,Logging and Monitoring,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76427072,Task Definition and Configuration,Workflow Definition,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,Airflow Version Update,Lack of knowledge in Programming and Devops
+https://stackoverflow.com/questions/76302748,Task Dependency,Workflow Execution,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,Installation,Missing or Incorrect Dependency
+https://stackoverflow.com/questions/76755251,Task Dependency,Workflow Execution,Insufficient Knowledge of the External Systems,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/77701630,Data Sharing between Tasks,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/78263488,Data Sharing between Tasks,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77113806,Data Sharing between Tasks,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/78095954,Data Sharing between Tasks,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+https://stackoverflow.com/questions/76304145,Logging and Monitoring, Quality Assurance and Maintenance,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,Deployment,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77959460,Logging and Monitoring, Quality Assurance and Maintenance,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77273724,Task Definition and Configuration,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/78002577,Task Definition and Configuration,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+https://stackoverflow.com/questions/78139395,Task Dependency,Workflow Execution,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+https://stackoverflow.com/questions/77222079,Task Dependency,Workflow Execution,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77886606,Workflow Design,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+https://stackoverflow.com/questions/78374965,Workflow Design,Workflow Definition,Insufficient Basic Knowledge of Airflow,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/76871072,Data Sharing between Tasks,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/77856384,Integration with External Systems,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Unclear
+https://stackoverflow.com/questions/76243081,Scheduling and Triggers,Workflow Execution,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,Task Dependency,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/76267487,Scheduling and Triggers,Workflow Execution,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,Workflow Design,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/76633996,Scheduling and Triggers,Workflow Execution,Incorrect Workflow Configuration,,,,,,,,,,,,,,,Workflow Definition,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/76804946,Scheduling and Triggers,Workflow Execution,Incorrect Workflow Configuration,,,,,,,,,,,,,,,Environment Setup and Deployment,,Incorrect or Suboptimal Operator Choice
+https://stackoverflow.com/questions/77022189,Scheduling and Triggers,Workflow Execution,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77079096,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76203462,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,Scheduling and Triggers,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77606668,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77796550,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Unclear
+https://stackoverflow.com/questions/78024195,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/78246496,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/78264345,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+https://stackoverflow.com/questions/77491881,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+https://stackoverflow.com/questions/77876760,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+https://stackoverflow.com/questions/77258083,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/77860673,Task Definition and Configuration,Workflow Definition,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,
+https://stackoverflow.com/questions/77273163,Task Dependency,Workflow Execution,Incorrect Workflow Configuration,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/76247301,Logging and Monitoring, Quality Assurance and Maintenance,Incorrect or Sub-optimal Operator Choice,,,,,,,,,,,,,,,,Data Sharing between Tasks,Incorrect or Sub-optimal Operator Choice
+https://stackoverflow.com/questions/76410626,Scheduling and Triggers,Workflow Execution,Incorrect or Sub-optimal Operator Choice,,,,,,,,,,,,,,,,Workflow Maintenance,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/76598054,Workflow Design,Workflow Definition,Incorrect or Sub-optimal Operator Choice,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/78336105,Workflow Design,Workflow Definition,Incorrect or Sub-optimal Operator Choice,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76582762,Task Dependency,Workflow Execution,Complex Workflows,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76581650,Task Dependency,Workflow Execution,Complex Workflows,,,,,,,,,,,,,,,,Adoption of Airflow,Complex Environmental Configuration
+https://stackoverflow.com/questions/76896342,Task Dependency,Workflow Execution,Complex Workflows,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/77949116,Task Dependency,Workflow Execution,Complex Workflows,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/77637535,Task Dependency,Workflow Execution,Complex Workflows,,,,,,,,,,,,,,,,,Limitations of Airflow
+https://stackoverflow.com/questions/77954024,Task Dependency,Workflow Execution,Complex Workflows,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+https://stackoverflow.com/questions/76907494,Workflow Design,Workflow Definition,Complex Workflows,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/77616592,Deployment,Environment Setup and Deployment,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/77276716,Deployment,Environment Setup and Deployment,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Unclear
+https://stackoverflow.com/questions/76970259,Deployment,Environment Setup and Deployment,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+https://stackoverflow.com/questions/77473361,Installation,Environment Setup and Deployment,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76875030,Security,Security,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+https://stackoverflow.com/questions/76529990,Task Dependency,Workflow Execution,Complex Environmental Configuration,,,,,,,,,,,,,,,,Workflow Testing,Complex Environmental Configuration
+https://stackoverflow.com/questions/77320801,Security,Security,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/76981108,Deployment,Environment Setup and Deployment,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+https://stackoverflow.com/questions/76574761,Task Definition and Configuration,Workflow Definition,Complex Environmental Configuration,,,,,,,,,,,,,,,,Optimization,Limitations in Airflow
+https://stackoverflow.com/questions/76536341,Installation,Environment Setup and Deployment,Complex Environmental Configuration,,,,,,,,,,,,,,,,Security,Insufficient Knowledge of the External Systems
+https://stackoverflow.com/questions/77310914,Integration with External Systems,Workflow Definition,Complex Environmental Configuration,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+https://stackoverflow.com/questions/78072057,zirrelevant,,,,,,,,,,,,,,,,,,,Incorrect or Suboptimal Operator Choice
+https://stackoverflow.com/questions/77201794,zirrelevant,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge on programming or Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations in airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient knowledge of external systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient knowledge of external systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of Knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Complex Workflows
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient knowledge of external systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Workflows
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or Suboptimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or suboptimal operator choice
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Suboptimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations in Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Workflows
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic knowledge of airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or incorrect dependency
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Workflows
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Limitations in Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect or suboptimal operator choice
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect or Suboptimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient knowledge of external systems
+,,,,,,,,,,,,,,,,,,,,Missing or incorrect dependency
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge on programming or Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge on programming or Devops
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Workflows
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect or Sub-optimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient basic knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Limitations of Airflow
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Complex Environmental Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Breaking Changes in Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Lack of knowledge in Programming and Devops
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Incorrect or Suboptimal Operator Choice
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Complex workflows
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Missing or Incorrect Dependency
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Insufficient Knowledge of the External Systems
+,,,,,,,,,,,,,,,,,,,,Insufficient Basic Knowledge of Airflow
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Unclear
+,,,,,,,,,,,,,,,,,,,,Incorrect Workflow Configuration
+,,,,,,,,,,,,,,,,,,,,Root_Cause
